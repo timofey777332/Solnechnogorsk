@@ -1,0 +1,101 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom right, gray, orange);
+            color: #333;
+        }
+        header {
+            background: linear-gradient(to right, yellow, orange);
+            color: black;
+            padding: 20px 0;
+            text-align: center;
+            
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: black;
+            text-decoration: none;
+            transition: color 0.3s ease;
+            
+        }
+        nav a:hover {
+            color: #00C853;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            
+        }
+       
+        img {
+            
+            height: 100px;
+            border-radius: 10px;
+            margin-left: 30px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            
+            color: black;
+            background: linear-gradient(to right, yellow, orange);
+            
+        }
+
+        
+         section {
+            margin-bottom: 10px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            
+        }
+        .gallery{
+    display: flex;
+    justify-content: center;
+}
+.swg {
+             margin-bottom: 10px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 10px 5px 5px 5px #EEE8AA;
+            height: 600px;    
+            width: 600px;    
+            margin-left: 250px;
+            
+           
+            }
+ .karta {   
+  height: 490px;
+  width: 490px;
+  
+}
+p{
+    text-align: center;
+}
+iframe{
+    margin-left: 180px;
+}
+a{
+    text-align: center;
+}
+.ZXC{
+    text-align: center;
+}
+.builder:hover {
+    
+    transform:scale( 2) ;
+    transition:all 3s linear;
+}
+a:hover{
+            color: #00C853;
+              }
+a{
+    text-decoration: none;
+}
